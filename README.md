@@ -6,7 +6,7 @@
 <p align="center">
   <em>
     This is me <b>Felipe Perez</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://www.ntu.edu.sg"> <b>Nanyang Technological University</b>, Singapore</a>.
-    An aspiring <b>Algorithm engineer, </b>&nbps; <b>Full-Stack Software Developer</b>&nbps; and <b> Blockchain engineer </b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+    An aspiring <b>Algorithm engineer, </b> <b>Full-Stack Software Developer</b> and <b> Blockchain engineer </b> and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
