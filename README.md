@@ -11,6 +11,14 @@
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
+<p align="center">
+  <em>
+    Passionate about technology and innovation, with a strong background in programming languages like C, C++, JavaScript, Python, and Rust.<br>
+    Experienced in both backend and frontend development, as well as participating in algorithm contests with notable results.<br>
+Excited to continue learning and contributing to impactful projects in the tech industry.
+  </em>
+</p>
+
 <h3>Little facts about me 🧑</h3>
 
 - 🔭 I’m currently working on Fullstack Web Development.
@@ -31,7 +39,6 @@
 </summary>
    <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-<code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
 <code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
