@@ -6,18 +6,17 @@
 <p align="center">
   <em>
     This is me <b>Felipe Perez</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://www.ntu.edu.sg"> <b>Nanyang Technological University</b>, Singapore</a>.
-    An aspiring <b>Competitive Programmer, </b>&nbps; <b>Full-Stack Software Developer</b>&nbps; and <b> Blockchain engineer </b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+    An aspiring <b>Algorithm engineer, </b>&nbps; <b>Full-Stack Software Developer</b>&nbps; and <b> Blockchain engineer </b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
 <h3>Little facts about me 🧑</h3>
 
-- 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
+- 🔭 I’m currently working on Fullstack Web Development.
+- 👯 I’m looking to collaborate with Blockchain and Full Stack Web Development Projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially Cricket.
+- ⚡ Fun fact: I love to play basketball.
 <br>
 
 ---
@@ -25,6 +24,10 @@
 <details>
 <summary>
   ✨ Tech stack currently using:
+  <b>Algorithm Engineer</b><br>
+  <b>Blockchain Engineer</b><br>
+  <b>FullStack Web Development</b><br>
+  
 </summary>
    <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
