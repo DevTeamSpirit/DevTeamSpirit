@@ -13,7 +13,7 @@
 
 <p align="center">
   <em>
-    Passionate about technology and innovation, with a strong background in programming languages like C, C++, JavaScript, Python, and Rust.<br>
+    Passionate about technology and innovation, with a strong background in programming languages like <b>C</b>, <b>C++</b>, <b>JavaScript</b>, <b>Python</b>, and <b>Rust</b>.<br>
     Experienced in both backend and frontend development, as well as participating in algorithm contests with notable results.<br>
 Excited to continue learning and contributing to impactful projects in the tech industry.
   </em>
@@ -24,7 +24,6 @@ Excited to continue learning and contributing to impactful projects in the tech 
 - 🔭 I’m currently working on Fullstack Web Development.
 - 👯 I’m looking to collaborate with Blockchain and Full Stack Web Development Projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love to play basketball.
 <br>
 
 ---
