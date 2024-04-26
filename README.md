@@ -1,11 +1,11 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Felipe Perez</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Robert Garcia</h1>
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
   <em>
-    This is me <b>Felipe Perez</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://www.ntu.edu.sg"> <b></b>National University of Singapore (NUS), Singapore</a>.
+    This is me <b>Felipe Perez</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://www.ntu.edu.sg"> <b></b>Nanyang Technological University, Singapore</a>.
     An aspiring <b>Algorithm engineer, </b> <b>Full-Stack Software Developer</b> and <b> Blockchain engineer </b> and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
