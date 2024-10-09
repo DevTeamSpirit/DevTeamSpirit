@@ -12,7 +12,7 @@
 
 <p align="center">
   <em>
-    Passionate about technology and innovation, with a strong background in programming languages like <b>C</b>, <b>C++</b>, <b>JavaScript</b>, <b>Python</b>, and <b>Rust</b>.<br>
+    Passionate about technology and innovation, with a strong background in programming languages like <b>C</b>, <b>C++</b>, <b>JavaScript, </b>, <b>Python, </b>, <b>Go</b>, and <b>Rust</b>.<br>
     Experienced in both backend and frontend development, as well as participating in algorithm contests with notable results.<br>
 Excited to continue learning and contributing to impactful projects in the tech industry.
   </em>
